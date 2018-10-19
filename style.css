@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.fa-times-circle, .fa-edit{
+    color: red;
+    font-size: 24px;
+}
+
